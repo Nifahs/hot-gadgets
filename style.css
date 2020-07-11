@@ -1,0 +1,112 @@
+.container{
+    
+    margin-bottom: 100px;
+    border-radius: 20px;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.black-btn{
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    font-weight: 500;
+    padding: 5px 20px 8px 20px;
+    border-radius: 15px;
+
+}
+.blue-bg{
+    background-color: rgb(253, 248, 242);
+}
+
+.carousel-item{
+    padding: 15px;
+    
+}
+.carousel-item h1{
+    font-size: 41px;
+    font-weight: 500;
+    color: black;
+}
+.carousel-item p{
+    width: 488px;
+
+    font-size: 18px;
+    color: #707070;
+    font-weight: 300;
+    margin-bottom: 50px;
+}
+#carouselExampleIndicators li{
+    background-image: linear-gradient(rgb(255, 238, 0), rgb(255, 157, 0));
+    width: 20px;
+    height: 10px;
+    border-radius: 20px;
+}
+
+.item-header h1{
+    font-size: 30px;
+    color: #1f1f1f;
+    font-weight: 500;
+}
+.item-header p{
+    font-size: 22px;
+    color: #ff9d00;
+    font-weight: 500;
+}
+.card{
+    border: none;
+    border-radius: 15px;
+   
+    
+    margin-bottom: 20px;
+}
+.card-deck h4{
+    font-size: 24px;
+    color: #1f1f1f;
+    font-weight: 500;
+}
+
+
+.card-deck img{
+    width: 225px;
+    padding: 20px;
+}
+
+.card-body p{
+    font-size: 16px;
+    
+    color: #707070;
+    font-weight: 300;
+}
+
+.card-footer{
+    border: none;
+    background-color: white;
+}
+
+
+
+.cat-head h1{
+    font-size: 35px;
+    color: #1f1f1f;
+    font-weight: 500;
+}
+
+.cat-head hr{
+    width: 150px;
+    border-image: linear-gradient(60deg,rgb(255, 166, 0), rgb(255, 115, 0));
+    border-image-slice: 2;
+    border-width: 5px;
+}
+
+
+.categories-img img{
+    width: 125px;
+}
+
+.col-sm-3{
+    padding: 10px;
+    
+}
+
